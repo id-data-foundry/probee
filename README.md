@@ -12,4 +12,4 @@ Repository containing all the materials used to create the Data-Enabled Design p
 ||Single core wire (helped keep buttons in place, but a case modification might be better)|
 
 ## 3D print
-Repo includes the original [STL](https://github.com/id-data-foundry/probee/blob/main/DEDProbeShell.stl) files of the probe shell + an [STL](https://github.com/id-data-foundry/probee/blob/main/rev%2016_solid_with_hole.STL) with a modified bottom piece that has a hole to access the on-off switch.
+Repo includes the original [STL](https://github.com/id-data-foundry/probee/blob/main/3D-Print/DEDProbeShell.stl) files of the probe shell + an [STL](https://github.com/id-data-foundry/probee/blob/main/3D-Print/rev%2016_solid_with_hole.STL) with a modified bottom piece that has a hole to access the on-off switch.
